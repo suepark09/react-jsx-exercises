@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.list-group-container {
+    border: solid 1px #dbdbdb;
+    border-radius: 5px;
+    /* padding: 10px 30px 30px 30px; */
+    width: 400px;
+}
+
+.list-item-container {
+    border-bottom: solid 1px #dbdbdb;
+    padding: 0px 15px 0px 15px;
+}
+
+

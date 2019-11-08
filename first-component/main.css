@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+.logo-container {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.red {
+    width: 50%;
+    height: 50%;
+    background: #f36523;
+    border: solid white 5px;
+}
+
+.green {
+    width: 50%;
+    height: 50%;
+    background: #abc74c;
+    border: solid white 5px; 
+}
+
+.yellow {
+    width: 50%;
+    height: 50%;
+    background: #ffc20f;
+    border: solid white 5px;
+}
+
+.blue {
+    width: 50%;
+    height: 50%;
+    background: #00aef0;
+    border: solid white 5px;
+}

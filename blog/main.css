@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.blog-header {
+    padding: 15px;
+    background: darkgrey;
+    color: white;
+}
+
+.article-container {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    height: 80vh;
+}
+
+.article-text {
+    margin-left: 20px;
+}
+
+.footer {
+    background: darkgrey;
+    color: white;
+    text-align: center;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
